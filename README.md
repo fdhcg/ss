@@ -1,2 +1,2 @@
-# SIGNALS AND SYSYTEM
-## this is where latest notification is published.
+# SIGNALS AND SYSYTEMS
+## This is where latest notification is published.
